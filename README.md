@@ -2,5 +2,6 @@
 Hello World repository for Git tutorial
 This is an example repository for the Git tutorial on https://www.w3schools.com
 This code editor is the absolute best
+This code editor rivals Vim with vigor.
 
 This repository is built step-by-step in the tutorial.
